@@ -2,8 +2,8 @@
 <h1 align="center">Mohamed ELYOUSFI</h1>
 <h2 align="center"><💻 Compte Rendu des Travaux Pratiques Micro-Services💻/></h2><br><br>
 
-<details>
-    <summary>Activité Pratique N° 3 : Web services SOAP, WSDL, UDDI avec JAXWS</summary>
+<div>
+    <h3>Activité Pratique N° 3 : Web services SOAP, WSDL, UDDI avec JAXWS</h3>
     <p>
         <p>
             <b>SOAP</b> (Simple Object Access Protocol) : crée pour pouvoir connecter les systemes distribuées et les permettre echanger des messages en format xml et trasformé en format http.<br>
@@ -52,6 +52,6 @@
         <h5>Client SOAP - PHP</h5>
         <img src="./screens/Screenshot_13.png" width="700"/>
         <img src="./screens/Screenshot_14.png" width="700"/>
-</details>
+</div>
 
 <!-- <img src="./screens/rodape_readme.jpg" alt="Art for footer readme.md" /> -->
