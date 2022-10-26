@@ -1,0 +1,7 @@
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\bin\Debug\ClientDotNet.exe
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\bin\Debug\ClientDotNet.pdb
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\obj\Debug\ClientDotNet.csproj.AssemblyReference.cache
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\obj\Debug\ClientDotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\obj\Debug\ClientDotNet.csproj.CoreCompileInputs.cache
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\obj\Debug\ClientDotNet.exe
+C:\Users\moham\RiderProjects\ClientDotNet\ClientDotNet\obj\Debug\ClientDotNet.pdb
